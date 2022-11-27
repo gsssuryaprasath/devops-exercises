@@ -69,10 +69,12 @@ Desclaimer: developed by repository owner
 
 <details>
 <summary>What is Linux?</summary><br><b>
-
+  
 [Wikipedia](https://en.wikipedia.org/wiki/Linux): "Linux is a family of open-source Unix-like operating systems based on the Linux kernel, an operating system kernel first released on September 17, 1991, by Linus Torvalds. Linux is typically packaged in a Linux distribution."
 
 [Red Hat](https://www.redhat.com/en/topics/linux/what-is-linux): "Linux® is an open source operating system (OS). An operating system is the software that directly manages a system’s hardware and resources, like CPU, memory, and storage. The OS sits between applications and hardware and makes the connections between all of your software and the physical resources that do the work."
+  
+  ![image](https://user-images.githubusercontent.com/88308983/204122986-e8ba2c4f-1136-4467-81a1-9b782e2d0063.png)
 
 </b></details>
 
